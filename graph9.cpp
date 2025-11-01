@@ -1,4 +1,4 @@
-// Dijkstra Algorithm using set
+// Dijkstra Algorithm using set data structure
 #include <iostream>
 #include <set>
 
