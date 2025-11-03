@@ -1,5 +1,6 @@
 //Path With Minimum Effort
-#include<istream>
+
+#include<iostream>
 using namespace std;
 class Solution {
   public:
